@@ -1,85 +1,21 @@
-# MANIKANDAN D
+<h1 align="center">Hi 👋, I'm Maqnikandan</h1>
+<h3 align="center">A passionate Software developer from Madurai</h3>
 
-**Email:** manidr1999@gmail.com  
-**Contact:** +91 8344062282  
-**LinkedIn:** [linkedin.com/in/manikandan-d-software-engineer](https://linkedin.com/in/manikandan-d-software-engineer)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikandan015&label=Profile%20views&color=0e75b6&style=flat" alt="manikandan015" /> </p>
 
----
+- 🔭 I’m currently working on [HSE](http://qgira.com/products.html)
 
-## Professional Summary
+- 📫 How to reach me **manidr1999@gmail.com**
 
-Results-driven Software Engineer with 2 years and 10 months of experience in C#, ASP.Net Core, ASP.Net, MVC, and web development technologies. Currently employed at Perpetuuiti Technosoft Services Private Limited, focusing on product development, automation, and software engineering. Adept at building Windows Services, UI development, and database management. Passionate about delivering high-quality, scalable, and efficient solutions.
+- 📄 Know about my experiences [3+ Year](3+ Year)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/manikandan d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikandan d" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_masila_mani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_masila_mani" height="30" width="40" /></a>
+</p>
 
-## Technical Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
-- **Programming Languages:** C#, ASP.Net Core, ASP.Net, MVC, HTML, CSS, JavaScript, jQuery
-- **Database Management:** MySQL, MSSQL, Oracle
-- **Functional Expertise:** UI (User Interface), Automation, HUB Service & Server Service
-- **Specialized Skills:** Windows Services with Scheduler (Cron Expression), Basics of Microsoft SignalR
-- **Tools & Platforms:** Visual Studio, JIRA, SVN, DevExpress, IIS
-- **Other Skills:** MS Office Suite, Bootstrap, LINQ, Figma
-
----
-
-## Work Experience
-
-### Perpetuuiti Technosoft Services Pvt Ltd, Tamil Nadu, India  
-**Software Engineer – Development**  
-**May 2022 – Present**
-
-#### Project: Continuity Patrol 4.5v (May 2022 – Present)
-- Developed 30+ new features in software applications based on client requirements and design specifications.
-- Worked on ASP.NET for Disaster Recovery applications.
-- Utilized PowerShell and PuTTY to implement new library actions.
-- Used JIRA for tracking and prioritizing bug fixes.
-- Diagnosed and resolved technical issues for 20+ clients per week via phone and email.
-- Achieved a 92% resolution rate for technical errors, escalating complex issues as necessary.
-
-#### Project: Continuity Patrol 6.0v (Aug 2023 – Present)
-- Built installers for Web and Windows applications using Advanced Installer.
-- Collaborated with a team of 4 to ensure timely project delivery.
-
-**Key Responsibilities:**
-- Developed User Interfaces using HTML, CSS, and Bootstrap.
-- Utilized ASP.NET MVC 5 and LINQ for database interactions.
-- Created Web Services using C#.
-- Implemented JavaScript and Bootstrap-based validations.
-- Designed tables, functions, and stored procedures in MS SQL Server 2018.
-
-#### Project: MHADA Dashboard (Apr 2023 – Present)
-- Developed a centralized web-based dashboard for Maharashtra Housing and Area Development Authority (MHADA).
-- Focused on real-time data visualization, reporting, and analytics to support decision-making processes.
-
----
-
-## Education
-
-- **Master of Computer Application (MCA)**  
-  Nehru Memorial College, Bharathiar University, India  
-  *First Class, 85% | Graduated in 2021*
-
-- **Bachelor of Computer Applications (BCA)**  
-  Nehru Memorial College, Bharathiar University, India  
-  *Second Class, 60% | Graduated in 2019*
-
-**Relevant Coursework:** Software Engineering, Data Structures, Algorithms, Database Management, Operating Systems, Programming Languages
-
----
-
-## Certifications
-
-- **Python Certification**  
-  DOT Institute, Trichy (Jan 2022)
-
----
-
-## Professional Attributes
-
-- Strong problem-solving and analytical skills.
-- Ability to work independently and in team-oriented environments.
-- Effective client interaction experience.
-
----
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manikandan015&show_icons=true&locale=en&layout=compact" alt="manikandan015" /></p>
