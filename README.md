@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maqnikandan</h1>
+<h1 align="center">Hi 👋, I'm Manikandan</h1>
 <h3 align="center">A passionate Software developer from Madurai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikandan015&label=Profile%20views&color=0e75b6&style=flat" alt="manikandan015" /> </p>
